@@ -1,1 +1,1 @@
-# Deploy Angular on AWS
+# Deploy SPA on AWS
